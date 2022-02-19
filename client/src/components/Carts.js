@@ -2,7 +2,10 @@ import React from 'react';
 
 const Carts = () => {
     return (
-<div>Carts</div>
+        <main>
+<h1>Carts</h1>
+<div></div>
+</main>
     );
 };
 

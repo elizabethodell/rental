@@ -19,13 +19,13 @@ function Navbar() {
             <Bars />
             <NavMenu>
                 <NavLink to="/boats" activeStyles>
-                    Boats
+                    Boat Slips
                 </NavLink>
                 <NavLink to="/carts" activeStyles>
-                    Carts
+                    Golf Carts
                 </NavLink>
                 <NavLink to="/homes" activeStyles>
-                    Homes
+                    Rental Homes
                 </NavLink>
                 <NavLink to="/storage" activeStyles>
                     Storage
